@@ -1,1 +1,1 @@
-Git for the win!
+GitHub rocks :)
